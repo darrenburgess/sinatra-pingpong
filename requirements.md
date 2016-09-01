@@ -11,6 +11,11 @@
     - id
     - id_game
     - id_player
+  * user
+    - id
+    - username
+    - password
+    - consider an authentication gem
 - crud
   * player
   * game
