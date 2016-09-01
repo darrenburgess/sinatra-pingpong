@@ -18,4 +18,4 @@
 - use bootstrap
 - datamapper/sqlite
 - minitest
-
+- user login with an authentication gem
